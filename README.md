@@ -1,6 +1,6 @@
 # Modern J Hair Cafe
 
-Demo website concept for **Modern J Hair Cafe** — Sydney, Australia.
+Demo website concept for **Modern J Hair Cafe** — Sydney, NSW.
 
 Live preview: https://modern-j-hair-cafe-mockup.netlify.app
 
